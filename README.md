@@ -18,8 +18,6 @@ I'm an engineering professional transitioning into data science. I enjoy working
 | Project | Description | Tools |
 |--------|-------------|-------|
 | [Salary Trends Analysis](https://github.com/bellogabriel/salary-trends) | Analyzed global tech salary trends based on experience and remote ratio | Pandas, Matplotlib |
-| [Chicago Crime Data](https://github.com/bellogabriel/chicago-crime) | Cleaned and visualized public safety data to identify hotspots | Pandas, Matplotlib |
-| [Data Cleaning Pipeline](https://github.com/bellogabriel/data-cleaning-project) | Built a reusable data wrangling script for dirty CSV files | Python, Jupyter |
 | [Inventory Management System](https://github.com/bellogabriel/inventory-management-system) | Built an interactive inventory management system for a store irrespective of size | Python, Jupyter |
 
 ---
