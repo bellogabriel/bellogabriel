@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Gabriel Bello-Ososo
 
-🎯 Data Science Enthusiast | 🛠️ Engineer in Transition | 🌍 Lifelong Learner
+🎯 Data Scientist | 🛠️ Engineer in Transition | 🌍 Lifelong Learner
 
-I'm an engineering professional transitioning into data science. I enjoy working with data to uncover insights and build tools that solve real-world problems. I'm currently focused on Python, pandas, exploratory data analysis, and telling stories through data. I am also currently undertaking a diploma program in data science at Altschool Africa which has been very enlightening. Looking forward to working with you on that exciting project.
+I'm an engineering professional transitioning into data science. I enjoy working with data to uncover insights and build tools that solve real-world problems. I'm currently focused on Python, pandas, exploratory data analysis, and telling stories through data. I recently completed a diploma program in data science at Altschool Africa, where I graduated as the Best Graduating Learner in the Data Science track. The experience was truly challenging and very enlightening. i am eagerly looking forward to working on that next exciting project.
 
 ---
 
@@ -10,7 +10,8 @@ I'm an engineering professional transitioning into data science. I enjoy working
 - Python • Pandas • NumPy • Matplotlib 
 - Jupyter Notebook • GitHub
 - Data Cleaning • EDA • Visualization
-
+- Data Modelling • Model Validation
+  
 ---
 
 ## 📂 Projects
@@ -25,8 +26,9 @@ I'm an engineering professional transitioning into data science. I enjoy working
 ---
 
 ## 📈 Currently Learning
-- Scikit-learn & basic machine learning models
+- Advance machine learning models
 - SQL
+- Microsoft PowerBI
 
 ---
 
