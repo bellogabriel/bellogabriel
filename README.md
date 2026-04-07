@@ -22,7 +22,7 @@ I'm an engineering professional transitioning into data science. I enjoy working
 | [Inventory Management System](https://github.com/bellogabriel/inventory-management-system) | Built an interactive inventory management system for a store irrespective of size | Python, Jupyter |
 | [Student Performance Analysis](https://github.com/bellogabriel/Student-performance-analysis) | Analyzed student performance record and provide descriptive statistics and remarks | Pandas, Matplotlib |
 | [Data Cleaning](https://github.com/bellogabriel/Data-Cleaning) | Load different datasets, inspect the dataset, clean it and save a cleaned version | Pandas, Matplotlib |
-| [Consumer Behavior Analysis](https://github.com/bellogabriel/Consumer-Behavior-Analysis/tree/main) | The Generational Divide in Shopping; How Age Shapes Consumer Behavior in the Digital Era | Pandas, Matplotlib, Seaborn |
+| [Consumer Behavior Analysis](https://github.com/bellogabriel/Consumer-Behavior-Analysis/tree/main) | The Generational Divide in Shopping; How Age Shapes Consumer Behavior in the Digital Era. An End-to-end project. | Pandas, Matplotlib, Seaborn |
 
 ---
 
