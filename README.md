@@ -23,6 +23,7 @@ I'm an engineering professional transitioning into data science. I enjoy working
 | [Student Performance Analysis](https://github.com/bellogabriel/Student-performance-analysis) | Analyzed student performance record and provide descriptive statistics and remarks | Pandas, Matplotlib |
 | [Data Cleaning](https://github.com/bellogabriel/Data-Cleaning) | Load different datasets, inspect the dataset, clean it and save a cleaned version | Pandas, Matplotlib |
 | [Consumer Behavior Analysis](https://github.com/bellogabriel/Consumer-Behavior-Analysis/tree/main) | The Generational Divide in Shopping; How Age Shapes Consumer Behavior in the Digital Era. An End-to-end project. | Pandas, Matplotlib, Seaborn |
+| [Flight Price Prediction](https://github.com/bellogabriel/Flight-Price-Prediction/tree/main) | An end-to-end project which builds a machine learning model that predicts Indian domestic flight prices using publicly available booking data, identifying the structural drivers of fare variation. | Pandas, Matplotlib, Seaborn, Scikit-learn |
 
 ---
 
